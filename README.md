@@ -17,15 +17,14 @@
 ## 📸 Screenshots
 
 **Sign-In Form:**  
-![Sign-In Page](assets/Screenshorts/signin01.jpg)
+<img src="assets/screenshots/signin01.jpg" alt="Sign-In Page" width="300"/>
 
 **Submission Success:**  
-![Success Message](assets/screenshots/success.png)
+<img src="assets/screenshots/success.png" alt="Success Message" width="300"/>
 
 *Optional GIF Demo:*  
-![Form Submission Demo](assets/screenshots/demo.gif)
+<img src="assets/screenshots/demo.gif" alt="Form Submission Demo" width="300"/>
 
----
 
 ## 💻 Installation
 
