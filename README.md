@@ -16,15 +16,17 @@
 
 ## 📸 Screenshots
 
-**Sign-In Form:**  
-<img src="assets/screenshots/signin01.jpg" alt="Sign-In Page" width="300"/>
+**Sign in-01:**  
+<img src="assets/Screenshorts/signin01.jpg" alt="Sign-In Page01"  height="500" width="300"/>
 
-**Submission Success:**  
-<img src="assets/screenshots/success.png" alt="Success Message" width="300"/>
+**Sign in-02:**  
+<img src="assets/Screenshorts/signin02.jpg" alt="Sign-In Page02" height="500" width="300"/>
 
-*Optional GIF Demo:*  
-<img src="assets/screenshots/demo.gif" alt="Form Submission Demo" width="300"/>
+**Sign in-03:**  
+<img src="assets/Screenshorts/signin03.jpg" alt="Sign-In Page03" height="500"  width="300"/>
 
+**Sign in-04:**  
+<img src="assets/Screenshorts/signin04.jpg" alt="Sign-In Page04" height="500" width="300"/>
 
 ## 💻 Installation
 
