@@ -1,16 +1,44 @@
-# companyweb
+# Candidate Sign-In App
 
-A new Flutter project.
+**Candidate Sign-In App** is a Flutter application that allows candidates to register their details securely before joining. It collects information via a form and stores it in a backend database.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- **Candidate Registration:** A secure Sign-In page for candidates to fill in their details.
+  - Input Fields: Name, Email, Degree, College, Contact, Department, etc.
+  - Form Validation: Ensures all required fields are filled correctly.
+  - Submission Feedback: Shows success or error messages after form submission.
+- **Intuitive UI:** Simple and easy-to-use interface for all users.
+- **Responsive Design:** Works on different screen sizes.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Sign-In Form:**  
+![Sign-In Page](assets/Screenshorts/signin01.jpg)
+
+**Submission Success:**  
+![Success Message](assets/screenshots/success.png)
+
+*Optional GIF Demo:*  
+![Form Submission Demo](assets/screenshots/demo.gif)
+
+---
+
+## 💻 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Vhkrish03/signin_app.gi
+2. Navigate to the project folder:
+   ```bash
+   cd CandidateSignInApp
+3. Install dependencies:
+   ```bash
+   flutter pub get
+4. Run the app:
+   ```bash
+   flutter run
+
