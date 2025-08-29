@@ -32,7 +32,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vhkrish03/signin_app.gi
+   git clone https://github.com/Vhkrish03/signin_app.git
 2. Navigate to the project folder:
    ```bash
    cd CandidateSignInApp
